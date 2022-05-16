@@ -1,5 +1,11 @@
 # ChemosGeneAnnotation
 
+<div align="center">
+<p align="center">
+<img src="https://github.com/PeterMulhair/ChemosGeneAnnotation/tree/main/figure/CS_logo-01.png" width="500" height="250">
+</p>
+</div>
+
 Set of scripts to identify chemsensory related genes in unannotated genomes. Using raw data from 55 lepidopteran and dipteran species, this pipeline can be run iteratively for annotation and confirmation of genes involved in chemosensation in insects. It uses previously identified protein sequences for odorant receptors (ORs), gustatory receptors (GRs), ionotropic receptors (IRs), odorant-binding proteins (OBPs), chemosensory proteins (CSPs) and sensory neuron membrane proteins (SNMPs).
 
 ## Requirements
