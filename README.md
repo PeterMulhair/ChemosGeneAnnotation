@@ -15,4 +15,20 @@ ChemosGeneAnnotation is a collection of python scripts that is currently run wit
 
 To run, download this repo locally using `git clone https://github.com/PeterMulhair/HbxFinder.git`
 
-### Step 1: 
+### Step 1: Run initial broad tBLASTn search
+
+`python blast_run.py --path </path/to/genome/assemblies/> --input raw/chemo_genes.fa --threads <integer>`
+
+`python parse_blast.py --path </path/to/genome/assemblies/> --taxa results/blastout/<blast_output_file>`
+
+### Step 2: Run exonerate on blast ouput
+
+`python exonerate_run.py --input raw/`
+
+### Step 3: Run pfam annotation on exonerate output
+
+`python pfam_run.py`
+
+---
+
+This pipeline can be run as outlined above as many times as required to ensure annotation of all chemosensory genes in your genomes. 
