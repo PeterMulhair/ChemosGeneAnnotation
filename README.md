@@ -2,7 +2,7 @@
 
 <div align="center">
 <p align="center">
-<img src="https://github.com/PeterMulhair/ChemosGeneAnnotation/tree/main/figure/CS_logo-01.png" width="500" height="250">
+<img src="https://github.com/PeterMulhair/ChemosGeneAnnotation/blob/main/figure/CS_logo-01.png" width="500" height="250">
 </p>
 </div>
 
