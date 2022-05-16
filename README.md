@@ -13,7 +13,7 @@ Set of scripts to identify chemsensory related genes in unannotated genomes. Usi
 
 ChemosGeneAnnotation is a collection of python scripts that is currently run with a string of commands.
 
-To run, download this repo locally using `git clone https://github.com/PeterMulhair/ChemosGeneAnnotation.git`
+Download this repo locally using `git clone https://github.com/PeterMulhair/ChemosGeneAnnotation.git`
 
 ### Step 1: Run initial broad tBLASTn search
 
