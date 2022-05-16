@@ -31,4 +31,4 @@ Download this repo locally using `git clone https://github.com/PeterMulhair/Chem
 
 ---
 
-This pipeline can be run as outlined above as many times as required to ensure annotation of all chemosensory genes in your genomes. 
+This pipeline can be run as outlined above as many times as required to ensure annotation of all chemosensory genes in your genomes. All you need to do is change the input files to include your newly identified genes.
