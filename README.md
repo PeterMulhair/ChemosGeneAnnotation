@@ -25,7 +25,7 @@ Download this repo locally using `git clone https://github.com/PeterMulhair/Chem
 
 `python blast_run.py --path </path/to/genome/assemblies/> --input raw/chemo_genes.fa --threads <integer>`
 
-`python parse_blast.py --path </path/to/genome/assemblies/> --taxa results/blastout/<blast_output_file>`
+`python parse_blast.py --path </path/to/genome/assemblies/> --taxa results/blastout/`
 
 ### Step 2: Run exonerate on blast ouput
 
